@@ -1,0 +1,10 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://jianguo7lan.github.io/hugo_gh_blog"
+title: "Hugo Blog Template for GitHub Pages"
+canonifyurls: true
+...
